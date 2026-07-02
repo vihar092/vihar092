@@ -1,6 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Vihar Jethava</h1>
 <img src="https://komarev.com/ghpvc/?username=vihar092&label=Profile%20Views&color=blue&style=flat" />
+<h1 align="center">Hi 👋, I'm Vihar Jethava</h1>
+
 <h3 align="center">
 Computer Science Engineering Student | MERN Stack Developer | Java Programmer
 </h3>
