@@ -64,7 +64,7 @@ Computer Science Engineering Student | MERN Stack Developer | Java Programmer
 <h2>📫 Connect With Me</h2>
 
 <p>
-<a href="https://github.com/vihar092">GitHub</a><br>
+
 <a href="https://www.linkedin.com/in/viharjethava/">LinkedIn</a>
 </p>
 
