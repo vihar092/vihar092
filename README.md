@@ -47,19 +47,11 @@ Computer Science Engineering Student | MERN Stack Developer | Java Programmer
 </tr>
 </table>
 <h2>🛠 Languages & Tools</h2>
-<h2>🛠 Languages & Tools</h2>
+
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,git,github,vscode,bootstrap,postman" />
-
-
-
-
-
-
-
-
 
 <h2>📫 Connect With Me</h2>
 
