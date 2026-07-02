@@ -70,11 +70,7 @@ Computer Engineering Student | MERN Stack Developer | Java Programmer
 </p>
 
 
-<h2>📈 GitHub Stats</h2>
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"
-height="170">
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"
