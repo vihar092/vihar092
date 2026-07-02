@@ -47,7 +47,13 @@ Computer Engineering Student | MERN Stack Developer | Java Programmer
 </tr>
 </table>
 <h2>🛠 Languages & Tools</h2>
+<h2>🛠 Languages & Tools</h2>
 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,git,github,vscode,bootstrap,postman" />
+
+</p>
 
 <img src="https://skillicons.dev/icons?i=java" />
 <img src="https://skillicons.dev/icons?i=js" />
