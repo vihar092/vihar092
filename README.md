@@ -46,22 +46,14 @@ Computer Engineering Student | MERN Stack Developer | Java Programmer
 <td>Git, GitHub, VS Code, Postman</td>
 </tr>
 </table>
+<h2>🛠 Languages & Tools</h2>
 
-<hr>
+<p align="center">
 
-<h2>📂 Projects</h2>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,git,github,vscode,bootstrap,postman" />
 
-<h3>📚 Library Management System</h3>
+</p>
 
-<ul>
-<li>Add Books</li>
-<li>Search Books</li>
-<li>Borrow Books</li>
-<li>Return Books</li>
-<li>Borrow History</li>
-</ul>
-
-<hr>
 
 <h2>📈 GitHub Stats</h2>
 
@@ -73,14 +65,7 @@ height="170">
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"
 height="170">
 
-<hr>
 
-<h2>🔥 GitHub Streak</h2>
-
-<img
-src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight">
-
-<hr>
 
 <h2>📫 Connect With Me</h2>
 
