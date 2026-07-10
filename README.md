@@ -86,11 +86,6 @@ Java Developer • MERN Stack Learner • AI Enthusiast • Tech Explorer
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rushirajyaguru&theme=tokyonight&margin-w=10&margin-h=10"/>
-</p>
 
 ---
 
@@ -104,13 +99,9 @@ Java Developer • MERN Stack Learner • AI Enthusiast • Tech Explorer
 
 ✔ Solve 500+ LeetCode Problems
 
-✔ Become a Strong Java Backend Developer
-
-✔ Build AI-Powered Full-Stack Applications
+✔ Become a Strong Java Developer
 
 ✔ Learn AWS & DevOps
-
-✔ Contribute to Open Source
 
 ✔ Secure a Software Development Internship
 
