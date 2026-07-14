@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Vihar Jethava</h1>
 <h3 align="center">
 Java Developer • MERN Stack Learner • AI Enthusiast • Tech Explorer
@@ -71,8 +72,8 @@ Java Developer • MERN Stack Learner • AI Enthusiast • Tech Explorer
 # 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rushirajyaguru&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rushirajyaguru&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ViharJethava&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ViharJethava&theme=tokyonight"/>
 </p>
 
 <p align="center">
