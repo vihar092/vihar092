@@ -72,12 +72,12 @@ Java Developer • MERN Stack Learner • AI Enthusiast • Tech Explorer
 # 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ViharJethava&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ViharJethava&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Viharjethava&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Viharjethava&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushirajyaguru&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viharjethava&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -87,7 +87,7 @@ Java Developer • MERN Stack Learner • AI Enthusiast • Tech Explorer
 
 # 📊 Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rushirajyaguru&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Viharjethava&theme=tokyo-night)](https://github.com/vihar092/github)
 
 ---
 
